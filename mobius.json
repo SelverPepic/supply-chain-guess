@@ -1,0 +1,29 @@
+{
+  "id": "supply-chain-guess",
+  "name": "Supply Chain Guess",
+  "version": "0.6.0",
+  "description": "Guess an everyday object from the global journey behind it.",
+  "entry": "index.jsx",
+  "icon": "icon.png",
+  "offline_capable": false,
+  "permissions": {},
+  "source_files": [
+    "worldMapData.js"
+  ],
+  "store": {
+    "tagline": "Guess an everyday object from its global journey",
+    "description": "Supply Chain Guess is a daily-style deduction game built on the hidden global journey behind ordinary products. Each round shows one object's evidence panel: what it weighs and which materials it uses, where those materials are mined, where components are produced, where the device is assembled, how it ships, who buys it, and where it goes at end of life. Pick from ten everyday objects \u2014 smartphone, electric car, running shoes and more \u2014 and you get five guesses; every miss reveals another clue and narrows the answer. An interactive world map overlays six independently togglable stages (raw materials, components, production, logistics, buyers, waste/disposal), with striped regions where several roles overlap. Each evidence card carries an expandable data limitations note, so the game stays honest about being a directional model informed by product trade, critical-minerals and UN e-waste data rather than any single traceable supply chain.",
+    "screenshots": [
+      {
+        "src": "static/store/game-question.png",
+        "alt": "Opening round: the question 'What object made this global journey?' with a guess picker and a material-mass treemap",
+        "label": "Deduce the object"
+      },
+      {
+        "src": "static/store/world-map.png",
+        "alt": "World map with independent toggles for raw materials, components, production, logistics, buyers and waste stages",
+        "label": "Six-stage world map"
+      }
+    ]
+  }
+}
