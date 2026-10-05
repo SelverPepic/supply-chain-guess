@@ -1,29 +1,29 @@
 {
   "id": "supply-chain-guess",
-  "name": "Supply Chain Guess",
-  "version": "0.6.0",
+  "name": "Supply Chain Guesser",
+  "version": "0.12.6",
   "description": "Guess an everyday object from the global journey behind it.",
   "entry": "index.jsx",
   "icon": "icon.png",
+  "embeds_agent": true,
   "offline_capable": false,
   "permissions": {},
-  "source_files": [
-    "worldMapData.js"
-  ],
   "store": {
-    "tagline": "Guess an everyday object from its global journey",
-    "description": "Supply Chain Guess is a daily-style deduction game built on the hidden global journey behind ordinary products. Each round shows one object's evidence panel: what it weighs and which materials it uses, where those materials are mined, where components are produced, where the device is assembled, how it ships, who buys it, and where it goes at end of life. Pick from ten everyday objects \u2014 smartphone, electric car, running shoes and more \u2014 and you get five guesses; every miss reveals another clue and narrows the answer. An interactive world map overlays six independently togglable stages (raw materials, components, production, logistics, buyers, waste/disposal), with striped regions where several roles overlap. Each evidence card carries an expandable data limitations note, so the game stays honest about being a directional model informed by product trade, critical-minerals and UN e-waste data rather than any single traceable supply chain.",
+    "tagline": "Guess everyday objects by tracing their materials, makers, markets and afterlife.",
+    "description": "A visual supply-chain guessing game about the hidden global journeys behind familiar objects. Compare material mass and value, explore raw-material sources, component and processing centers, producing countries, logistics hubs, buyers and end-of-life destinations, then identify the mystery object in five guesses. Each miss reveals a progressive built-in clue, while signed-in Möbius installations can optionally ask an AI reviewer to reconsider unusual synonyms or matching subtypes. Includes eleven independently playable objects, responsive layouts, selectable map layers and clear data-limit notes throughout.",
+    "hero": "static/store/supply-chain-guesser-wide.png",
     "screenshots": [
       {
-        "src": "static/store/game-question.png",
-        "alt": "Opening round: the question 'What object made this global journey?' with a guess picker and a material-mass treemap",
-        "label": "Deduce the object"
+        "src": "static/store/supply-chain-guesser-wide.png",
+        "alt": "Supply Chain Guesser on desktop with the mystery prompt, prominent New object control, and two aligned material charts.",
+        "label": "Trace the evidence"
       },
       {
-        "src": "static/store/world-map.png",
-        "alt": "World map with independent toggles for raw materials, components, production, logistics, buyers and waste stages",
-        "label": "Six-stage world map"
+        "src": "static/store/supply-chain-guesser-mobile.png",
+        "alt": "Supply Chain Guesser in a narrow mobile layout with the guessing controls and material evidence stacked vertically.",
+        "label": "Play on any screen"
       }
     ]
-  }
+  },
+  "source_files": ["worldMapData.js", "objects.js", "guessMatching.js", "guessAgent.js"]
 }
