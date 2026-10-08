@@ -4,10 +4,11 @@ Supply Chain Guesser is a visual game about the hidden global journeys behind ev
 
 ## How to play
 
-1. Study the rectangular charts and world map without revealing the answer.
+1. Everyone starts with the same object each UTC day. Study its rectangular charts and world map without revealing the answer.
 2. Type any everyday object as your guess.
 3. You have five guesses. Each wrong answer unlocks the next of four progressively more descriptive clues.
-4. Use **New object** to start another shuffled round. The twelve objects appear in a randomized, no-repeat order.
+4. Finish the round, then use **Play again** to continue through the remaining catalogue without changing the shared daily starting object.
+5. At the end, compare how many guesses you used and how many clues you revealed.
 
 The evidence includes:
 
@@ -30,4 +31,4 @@ The anonymous public version provides the fixed clues but cannot start the priva
 
 ## Included objects
 
-Smartphone, metal knife, office chair, glass bottle, office paper, ballpoint pen, beef, muesli/cereal, semi-hard cheese, packaged wheat bread, fluoride toothpaste and a cotton T-shirt.
+Smartphone, metal knife, office chair, glass bottle, office paper, ballpoint pen, beef, muesli/cereal, semi-hard cheese, packaged wheat bread, fluoride toothpaste, a cotton T-shirt, sneakers, a household window, bar soap, a mattress, a bath towel, a ceramic mug, a frying pan, a bed pillow and an electric kettle.

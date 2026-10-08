@@ -1,7 +1,7 @@
 {
   "id": "supply-chain-guess",
   "name": "Supply Chain Guesser",
-  "version": "0.12.10",
+  "version": "0.22.0",
   "description": "Guess an everyday object from the global journey behind it.",
   "entry": "index.jsx",
   "icon": "icon.png",
@@ -10,12 +10,12 @@
   "permissions": {},
   "store": {
     "tagline": "Guess everyday objects by tracing their materials, makers, markets and afterlife.",
-    "description": "A visual supply-chain guessing game about the hidden global journeys behind familiar objects. Compare material mass and value, explore raw-material sources, component and processing centers, producing countries, logistics hubs, buyers and end-of-life destinations, then identify the mystery object in five guesses. Each miss reveals a progressive built-in clue, while signed-in Möbius installations can optionally ask an AI reviewer to reconsider unusual synonyms or matching subtypes. Includes twelve independently playable objects, responsive layouts, selectable map layers and clear data-limit notes throughout.",
+    "description": "A visual supply-chain guessing game about the hidden global journeys behind familiar objects. Compare material mass and value, explore raw-material sources, component and processing centers, producing countries, logistics hubs, buyers and end-of-life destinations, then identify the mystery object in five guesses. Each miss reveals a progressive built-in clue, while signed-in Möbius installations can optionally ask an AI reviewer to reconsider unusual synonyms or matching subtypes. Includes twenty-one independently playable objects, responsive layouts, selectable map layers and clear data-limit notes throughout.",
     "hero": "static/store/supply-chain-guesser-wide.png",
     "screenshots": [
       {
         "src": "static/store/supply-chain-guesser-wide.png",
-        "alt": "Supply Chain Guesser on desktop with the mystery prompt, prominent New object control, and two aligned material charts.",
+        "alt": "Supply Chain Guesser on desktop with the mystery prompt, guessing controls, and two aligned material charts.",
         "label": "Trace the evidence"
       },
       {
@@ -25,5 +25,5 @@
       }
     ]
   },
-  "source_files": ["worldMapData.js", "objects.js", "guessMatching.js", "guessAgent.js"]
+  "source_files": ["worldMapData.js", "objects.js", "guessMatching.js", "guessAgent.js", "dailyRotation.js"]
 }
