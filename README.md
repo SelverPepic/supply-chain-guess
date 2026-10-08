@@ -31,4 +31,4 @@ The anonymous public version provides the fixed clues but cannot start the priva
 
 ## Included objects
 
-Smartphone, metal knife, office chair, glass bottle, office paper, ballpoint pen, beef, muesli/cereal, semi-hard cheese, packaged wheat bread, fluoride toothpaste, a cotton T-shirt, sneakers, a household window, bar soap, a mattress, a bath towel, a ceramic mug, a frying pan, a bed pillow, an electric kettle, a manual toothbrush and an LED light bulb.
+Smartphone, metal knife, office chair, glass bottle, office paper, ballpoint pen, beef, muesli/cereal, semi-hard cheese, packaged wheat bread, fluoride toothpaste, a cotton T-shirt, sneakers, a household window, bar soap, a mattress, a bath towel, a ceramic mug, a frying pan, a bed pillow, an electric kettle, a manual toothbrush, an LED light bulb, an umbrella, a backpack, an alkaline AA battery, a toilet-paper roll, a wooden pencil, over-ear headphones and a stainless-steel cooking pot.

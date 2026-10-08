@@ -1916,4 +1916,5509 @@ export const OBJECTS = [
       ['United States', 222, 144, 'buyer'], ['United Kingdom', 493, 98, 'buyer'], ['Indonesia', 823, 278, 'waste'],
     ],
   },
+{
+  "id": "umbrella",
+  "name": "Umbrella",
+  "aliases": [
+    "umbrella",
+    "rain umbrella",
+    "folding umbrella",
+    "compact umbrella",
+    "walking umbrella",
+    "stick umbrella",
+    "automatic umbrella",
+    "travel umbrella",
+    "pocket umbrella",
+    "rain parasol",
+    "weather umbrella",
+    "collapsible umbrella",
+    "telescopic umbrella",
+    "handheld umbrella",
+    "hand held umbrella",
+    "brolly",
+    "rain shade",
+    "sun umbrella"
+  ],
+  "category": "Weather accessory",
+  "descriptor": "Portable weather protection",
+  "portable": true,
+  "powered": false,
+  "setting": "outdoors and travel",
+  "finishedPrice": {
+    "range": "$8–$80 per unit",
+    "basis": "Indicative retail range for one personal rain umbrella; wind-resistant frames, automatic mechanisms and premium fabrics raise the price.",
+    "tiers": [
+      [
+        "Value",
+        "$8–$15"
+      ],
+      [
+        "Everyday",
+        "$15–$30"
+      ],
+      [
+        "Wind-resistant",
+        "$30–$50"
+      ],
+      [
+        "Premium",
+        "$50–$80"
+      ]
+    ]
+  },
+  "guessMaterials": [
+    "Polyester canopy",
+    "Steel frame",
+    "Fiberglass ribs",
+    "ABS handle",
+    "Aluminum runner"
+  ],
+  "materials": [
+    [
+      "Steel shaft and ribs",
+      210,
+      0.85
+    ],
+    [
+      "Polyester canopy",
+      120,
+      1.4
+    ],
+    [
+      "Fiberglass rib sections",
+      45,
+      1.1
+    ],
+    [
+      "ABS handle and tips",
+      40,
+      1.8
+    ],
+    [
+      "Aluminum runner and fittings",
+      20,
+      2.6
+    ],
+    [
+      "Steel fasteners and springs",
+      10,
+      1.2
+    ],
+    [
+      "Water-repellent coating and thread",
+      5,
+      6.0
+    ]
+  ],
+  "stages": {
+    "sources": [
+      [
+        "China",
+        20,
+        null,
+        [
+          "Steel",
+          "polyester feedstocks",
+          "aluminum"
+        ]
+      ],
+      [
+        "Australia",
+        12,
+        null,
+        [
+          "Iron ore",
+          "bauxite"
+        ]
+      ],
+      [
+        "Brazil",
+        10,
+        null,
+        [
+          "Iron ore",
+          "bauxite"
+        ]
+      ],
+      [
+        "India",
+        8,
+        null,
+        [
+          "Iron ore",
+          "polyester feedstocks"
+        ]
+      ],
+      [
+        "Saudi Arabia",
+        8,
+        null,
+        [
+          "Polyester and ABS feedstocks"
+        ]
+      ],
+      [
+        "United States",
+        7,
+        null,
+        [
+          "Petrochemical feedstocks",
+          "steel"
+        ]
+      ],
+      [
+        "South Africa",
+        6,
+        null,
+        [
+          "Iron ore",
+          "manganese"
+        ]
+      ],
+      [
+        "Indonesia",
+        6,
+        null,
+        [
+          "Nickel",
+          "petrochemical feedstocks"
+        ]
+      ],
+      [
+        "Russia",
+        5,
+        null,
+        [
+          "Nickel",
+          "steel inputs"
+        ]
+      ],
+      [
+        "South Korea",
+        4,
+        null,
+        [
+          "Polyester intermediates"
+        ]
+      ],
+      [
+        "Japan",
+        3,
+        null,
+        [
+          "Coating chemicals"
+        ]
+      ],
+      [
+        "Chile",
+        3,
+        null,
+        [
+          "Copper"
+        ]
+      ],
+      [
+        "Canada",
+        3,
+        null,
+        [
+          "Aluminum",
+          "nickel"
+        ]
+      ],
+      [
+        "Other",
+        5,
+        null,
+        [
+          "Silica, pigments and coating inputs"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        "China",
+        45,
+        null,
+        [
+          "Frames",
+          "canopies",
+          "handles"
+        ]
+      ],
+      [
+        "Germany",
+        10,
+        null,
+        [
+          "Mechanisms",
+          "steel ribs"
+        ]
+      ],
+      [
+        "Taiwan",
+        8,
+        null,
+        [
+          "Ribs",
+          "automatic openers"
+        ]
+      ],
+      [
+        "Japan",
+        6,
+        null,
+        [
+          "Coated fabrics",
+          "mechanisms"
+        ]
+      ],
+      [
+        "Cambodia",
+        6,
+        null,
+        [
+          "Sewn canopies"
+        ]
+      ],
+      [
+        "Poland",
+        5,
+        null,
+        [
+          "Frames",
+          "handles"
+        ]
+      ],
+      [
+        "Vietnam",
+        4,
+        null,
+        [
+          "Sewn canopies"
+        ]
+      ],
+      [
+        "India",
+        4,
+        null,
+        [
+          "Steel shafts",
+          "canopies"
+        ]
+      ],
+      [
+        "United States",
+        3,
+        null,
+        [
+          "Specialty fabrics"
+        ]
+      ],
+      [
+        "Italy",
+        3,
+        null,
+        [
+          "Handles",
+          "fashion canopies"
+        ]
+      ],
+      [
+        "Other",
+        6,
+        null,
+        [
+          "Tips, straps and fasteners"
+        ]
+      ]
+    ],
+    "assembly": [
+      [
+        "China",
+        72
+      ],
+      [
+        "Cambodia",
+        8
+      ],
+      [
+        "Germany",
+        4
+      ],
+      [
+        "Netherlands",
+        3
+      ],
+      [
+        "Poland",
+        3
+      ],
+      [
+        "Italy",
+        2
+      ],
+      [
+        "Spain",
+        2
+      ],
+      [
+        "United States",
+        1
+      ],
+      [
+        "Other",
+        5
+      ]
+    ],
+    "logistics": [
+      [
+        "Netherlands",
+        15
+      ],
+      [
+        "Germany",
+        12
+      ],
+      [
+        "Belgium",
+        10
+      ],
+      [
+        "Singapore",
+        10
+      ],
+      [
+        "Hong Kong",
+        8
+      ],
+      [
+        "United Arab Emirates",
+        8
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "China",
+        7
+      ],
+      [
+        "Malaysia",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Poland",
+        4
+      ],
+      [
+        "Panama",
+        3
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "buyers": [
+      [
+        "United States",
+        18
+      ],
+      [
+        "China",
+        12
+      ],
+      [
+        "Germany",
+        8
+      ],
+      [
+        "United Kingdom",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Australia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "Netherlands",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Saudi Arabia",
+        2
+      ],
+      [
+        "United Arab Emirates",
+        2
+      ],
+      [
+        "South Africa",
+        1
+      ],
+      [
+        "Sweden",
+        1
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "waste": [
+      [
+        "China",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "India",
+        10
+      ],
+      [
+        "Germany",
+        7
+      ],
+      [
+        "United Kingdom",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Turkey",
+        2
+      ],
+      [
+        "Australia",
+        2
+      ],
+      [
+        "South Africa",
+        2
+      ],
+      [
+        "Chile",
+        1
+      ],
+      [
+        "United Arab Emirates",
+        1
+      ],
+      [
+        "Other",
+        4
+      ]
+    ]
+  },
+  "feedback": [
+    "It is a portable unpowered object normally carried only when the weather may change.",
+    "A textile sheet provides most of its area, while a hinged metal framework provides most of its structure.",
+    "A sliding runner spreads several ribs outward from a central shaft.",
+    "It opens above one person to keep off rain or strong sun."
+  ],
+  "mapRoles": {
+    "156": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "036": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "076": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "356": [
+      "source",
+      "component",
+      "buyer",
+      "waste"
+    ],
+    "682": [
+      "source",
+      "buyer"
+    ],
+    "840": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "710": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "360": [
+      "source",
+      "waste"
+    ],
+    "643": [
+      "source",
+      "waste"
+    ],
+    "410": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "392": [
+      "source",
+      "component",
+      "buyer",
+      "waste"
+    ],
+    "152": [
+      "source",
+      "waste"
+    ],
+    "124": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "276": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "158": [
+      "component"
+    ],
+    "116": [
+      "component",
+      "assembly"
+    ],
+    "616": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "704": [
+      "component"
+    ],
+    "380": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "528": [
+      "assembly",
+      "logistics",
+      "buyer"
+    ],
+    "724": [
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "056": [
+      "logistics"
+    ],
+    "702": [
+      "logistics"
+    ],
+    "344": [
+      "logistics"
+    ],
+    "784": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "458": [
+      "logistics"
+    ],
+    "484": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "591": [
+      "logistics"
+    ],
+    "826": [
+      "buyer",
+      "waste"
+    ],
+    "250": [
+      "buyer",
+      "waste"
+    ],
+    "752": [
+      "buyer"
+    ],
+    "792": [
+      "waste"
+    ]
+  },
+  "mapLabels": [
+    [
+      "China",
+      789,
+      153,
+      "assembly"
+    ],
+    [
+      "Australia",
+      872,
+      319,
+      "source"
+    ],
+    [
+      "Germany",
+      528,
+      107,
+      "component"
+    ],
+    [
+      "Cambodia",
+      796,
+      213,
+      "assembly"
+    ],
+    [
+      "Netherlands",
+      514,
+      106,
+      "logistics"
+    ],
+    [
+      "United States",
+      222,
+      144,
+      "buyer"
+    ]
+  ]
+},
+{
+  "id": "backpack",
+  "name": "Backpack",
+  "aliases": [
+    "backpack",
+    "back pack",
+    "rucksack",
+    "ruck sack",
+    "daypack",
+    "day pack",
+    "school backpack",
+    "school bag",
+    "book bag",
+    "bookbag",
+    "knapsack",
+    "hiking backpack",
+    "travel backpack",
+    "laptop backpack",
+    "student backpack",
+    "shoulder backpack",
+    "two strap bag",
+    "two-strap bag",
+    "carry pack",
+    "back bag"
+  ],
+  "category": "Bag and luggage",
+  "descriptor": "Wearable carrying bag",
+  "portable": true,
+  "powered": false,
+  "setting": "school, work and travel",
+  "finishedPrice": {
+    "range": "$15–$250 per unit",
+    "basis": "Indicative retail range for one textile daypack; technical suspension, weatherproof laminates and premium branding raise the price.",
+    "tiers": [
+      [
+        "Value",
+        "$15–$35"
+      ],
+      [
+        "Everyday",
+        "$35–$80"
+      ],
+      [
+        "Technical",
+        "$80–$150"
+      ],
+      [
+        "Premium",
+        "$150–$250"
+      ]
+    ]
+  },
+  "guessMaterials": [
+    "Polyester fabric",
+    "Polyurethane foam",
+    "Zippers",
+    "Nylon webbing",
+    "Plastic buckles"
+  ],
+  "materials": [
+    [
+      "Polyester and nylon shell fabric",
+      360,
+      2.4
+    ],
+    [
+      "Polyurethane back and strap foam",
+      120,
+      3.0
+    ],
+    [
+      "Zippers and sliders",
+      70,
+      4.5
+    ],
+    [
+      "Nylon webbing and binding",
+      65,
+      3.2
+    ],
+    [
+      "Plastic buckles and adjusters",
+      35,
+      2.2
+    ],
+    [
+      "Polyester sewing thread",
+      20,
+      2.0
+    ],
+    [
+      "Water-resistant coating",
+      15,
+      5.5
+    ],
+    [
+      "Metal hardware",
+      15,
+      3.5
+    ]
+  ],
+  "stages": {
+    "sources": [
+      [
+        "China",
+        22,
+        null,
+        [
+          "Polyester",
+          "nylon",
+          "steel"
+        ]
+      ],
+      [
+        "Saudi Arabia",
+        10,
+        null,
+        [
+          "Polymer feedstocks"
+        ]
+      ],
+      [
+        "United States",
+        9,
+        null,
+        [
+          "Polymer feedstocks",
+          "foam inputs"
+        ]
+      ],
+      [
+        "India",
+        9,
+        null,
+        [
+          "Cotton",
+          "polyester feedstocks"
+        ]
+      ],
+      [
+        "South Korea",
+        8,
+        null,
+        [
+          "Polyester and polyurethane intermediates"
+        ]
+      ],
+      [
+        "Taiwan",
+        7,
+        null,
+        [
+          "Nylon intermediates"
+        ]
+      ],
+      [
+        "Indonesia",
+        7,
+        null,
+        [
+          "Petrochemical feedstocks"
+        ]
+      ],
+      [
+        "Australia",
+        5,
+        null,
+        [
+          "Iron ore",
+          "bauxite"
+        ]
+      ],
+      [
+        "Brazil",
+        5,
+        null,
+        [
+          "Iron ore"
+        ]
+      ],
+      [
+        "Vietnam",
+        4,
+        null,
+        [
+          "Rubber and textile inputs"
+        ]
+      ],
+      [
+        "Russia",
+        4,
+        null,
+        [
+          "Nickel and polymer feedstocks"
+        ]
+      ],
+      [
+        "Turkey",
+        3,
+        null,
+        [
+          "Textile fibers"
+        ]
+      ],
+      [
+        "Japan",
+        2,
+        null,
+        [
+          "Coating chemicals"
+        ]
+      ],
+      [
+        "Other",
+        5,
+        null,
+        [
+          "Pigments, zinc and fillers"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        "China",
+        30,
+        null,
+        [
+          "Woven fabric",
+          "zippers",
+          "buckles"
+        ]
+      ],
+      [
+        "Taiwan",
+        12,
+        null,
+        [
+          "Technical fabrics",
+          "webbing"
+        ]
+      ],
+      [
+        "South Korea",
+        10,
+        null,
+        [
+          "Coated textiles",
+          "foam"
+        ]
+      ],
+      [
+        "Vietnam",
+        9,
+        null,
+        [
+          "Cut fabric panels",
+          "webbing"
+        ]
+      ],
+      [
+        "Japan",
+        7,
+        null,
+        [
+          "Zippers",
+          "coatings"
+        ]
+      ],
+      [
+        "Germany",
+        6,
+        null,
+        [
+          "Buckles",
+          "technical textiles"
+        ]
+      ],
+      [
+        "India",
+        6,
+        null,
+        [
+          "Woven fabric",
+          "thread"
+        ]
+      ],
+      [
+        "Indonesia",
+        5,
+        null,
+        [
+          "Woven fabric",
+          "foam"
+        ]
+      ],
+      [
+        "United States",
+        4,
+        null,
+        [
+          "Foam",
+          "specialty textiles"
+        ]
+      ],
+      [
+        "Italy",
+        3,
+        null,
+        [
+          "Premium fabrics",
+          "hardware"
+        ]
+      ],
+      [
+        "Other",
+        8,
+        null,
+        [
+          "Labels, binding and minor fittings"
+        ]
+      ]
+    ],
+    "assembly": [
+      [
+        "China",
+        45
+      ],
+      [
+        "Vietnam",
+        12
+      ],
+      [
+        "Indonesia",
+        10
+      ],
+      [
+        "Cambodia",
+        8
+      ],
+      [
+        "Germany",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "India",
+        3
+      ],
+      [
+        "United States",
+        2
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "logistics": [
+      [
+        "Netherlands",
+        15
+      ],
+      [
+        "Germany",
+        12
+      ],
+      [
+        "Belgium",
+        10
+      ],
+      [
+        "Singapore",
+        10
+      ],
+      [
+        "Hong Kong",
+        8
+      ],
+      [
+        "United Arab Emirates",
+        8
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "China",
+        7
+      ],
+      [
+        "Malaysia",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Poland",
+        4
+      ],
+      [
+        "Panama",
+        3
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "buyers": [
+      [
+        "United States",
+        18
+      ],
+      [
+        "China",
+        12
+      ],
+      [
+        "Germany",
+        8
+      ],
+      [
+        "United Kingdom",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Australia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "Netherlands",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Saudi Arabia",
+        2
+      ],
+      [
+        "United Arab Emirates",
+        2
+      ],
+      [
+        "South Africa",
+        1
+      ],
+      [
+        "Sweden",
+        1
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "waste": [
+      [
+        "China",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "India",
+        10
+      ],
+      [
+        "Germany",
+        7
+      ],
+      [
+        "United Kingdom",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Turkey",
+        2
+      ],
+      [
+        "Australia",
+        2
+      ],
+      [
+        "South Africa",
+        2
+      ],
+      [
+        "Chile",
+        1
+      ],
+      [
+        "United Arab Emirates",
+        1
+      ],
+      [
+        "Other",
+        4
+      ]
+    ]
+  },
+  "feedback": [
+    "It is a flexible unpowered carrier designed to travel with one person.",
+    "Woven synthetic fabric dominates its mass, with foam added where it touches the body.",
+    "Zippers close several compartments while adjustable webbing carries the load.",
+    "Two padded straps let it be worn across the back."
+  ],
+  "mapRoles": {
+    "156": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "682": [
+      "source",
+      "buyer"
+    ],
+    "840": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "356": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "410": [
+      "source",
+      "component",
+      "buyer",
+      "waste"
+    ],
+    "158": [
+      "source",
+      "component"
+    ],
+    "360": [
+      "source",
+      "component",
+      "assembly",
+      "waste"
+    ],
+    "036": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "076": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "704": [
+      "source",
+      "component",
+      "assembly"
+    ],
+    "643": [
+      "source",
+      "waste"
+    ],
+    "792": [
+      "source",
+      "waste"
+    ],
+    "392": [
+      "source",
+      "component",
+      "buyer",
+      "waste"
+    ],
+    "276": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "380": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "116": [
+      "assembly"
+    ],
+    "250": [
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "528": [
+      "logistics",
+      "buyer"
+    ],
+    "056": [
+      "logistics"
+    ],
+    "702": [
+      "logistics"
+    ],
+    "344": [
+      "logistics"
+    ],
+    "784": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "458": [
+      "logistics"
+    ],
+    "484": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "616": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "591": [
+      "logistics"
+    ],
+    "826": [
+      "buyer",
+      "waste"
+    ],
+    "124": [
+      "buyer",
+      "waste"
+    ],
+    "724": [
+      "buyer",
+      "waste"
+    ],
+    "710": [
+      "buyer",
+      "waste"
+    ],
+    "752": [
+      "buyer"
+    ],
+    "152": [
+      "waste"
+    ]
+  },
+  "mapLabels": [
+    [
+      "China",
+      789,
+      153,
+      "component"
+    ],
+    [
+      "Saudi Arabia",
+      650,
+      176,
+      "source"
+    ],
+    [
+      "Vietnam",
+      805,
+      205,
+      "assembly"
+    ],
+    [
+      "Indonesia",
+      823,
+      278,
+      "assembly"
+    ],
+    [
+      "Netherlands",
+      514,
+      106,
+      "logistics"
+    ],
+    [
+      "United States",
+      222,
+      144,
+      "buyer"
+    ]
+  ]
+},
+{
+  "id": "alkaline-aa-battery",
+  "name": "Alkaline AA battery",
+  "aliases": [
+    "aa battery",
+    "aa cell",
+    "double a battery",
+    "double-a battery",
+    "alkaline battery",
+    "alkaline aa battery",
+    "1.5 volt battery",
+    "1.5v battery",
+    "primary battery",
+    "dry cell battery",
+    "dry cell",
+    "manganese battery",
+    "zinc manganese battery",
+    "zinc-manganese battery",
+    "flashlight battery",
+    "penlight battery",
+    "lr6 battery",
+    "lr6 cell",
+    "disposable battery"
+  ],
+  "category": "Portable energy",
+  "descriptor": "Single-use electrochemical cell",
+  "portable": true,
+  "powered": true,
+  "setting": "small household electronics",
+  "finishedPrice": {
+    "range": "$0.30–$3 per unit",
+    "basis": "Indicative per-cell retail range for one alkaline AA battery; multipacks lower the price and premium long-life brands raise it.",
+    "tiers": [
+      [
+        "Bulk",
+        "$0.30–$0.60"
+      ],
+      [
+        "Everyday",
+        "$0.60–$1.20"
+      ],
+      [
+        "Premium",
+        "$1.20–$2"
+      ],
+      [
+        "Specialty",
+        "$2–$3"
+      ]
+    ]
+  },
+  "guessMaterials": [
+    "Manganese dioxide",
+    "Zinc",
+    "Steel can",
+    "Potassium hydroxide",
+    "Graphite"
+  ],
+  "materials": [
+    [
+      "Manganese-dioxide cathode mix",
+      8.5,
+      1.8
+    ],
+    [
+      "Zinc anode powder",
+      5.5,
+      3.0
+    ],
+    [
+      "Steel can and caps",
+      4.5,
+      0.9
+    ],
+    [
+      "Potassium-hydroxide electrolyte and water",
+      3,
+      1.2
+    ],
+    [
+      "Graphite and conductive carbon",
+      0.8,
+      2.5
+    ],
+    [
+      "Paper separator",
+      0.5,
+      1.2
+    ],
+    [
+      "Brass collector and contacts",
+      0.3,
+      5.0
+    ],
+    [
+      "Polymer seal and printed label",
+      0.4,
+      3.0
+    ]
+  ],
+  "stages": {
+    "sources": [
+      [
+        "South Africa",
+        18,
+        null,
+        [
+          "Manganese ore"
+        ]
+      ],
+      [
+        "China",
+        17,
+        null,
+        [
+          "Manganese",
+          "zinc",
+          "steel"
+        ]
+      ],
+      [
+        "Australia",
+        10,
+        null,
+        [
+          "Manganese",
+          "zinc",
+          "iron ore"
+        ]
+      ],
+      [
+        "Gabon",
+        8,
+        null,
+        [
+          "Manganese ore"
+        ]
+      ],
+      [
+        "Brazil",
+        7,
+        null,
+        [
+          "Manganese",
+          "iron ore"
+        ]
+      ],
+      [
+        "Peru",
+        7,
+        null,
+        [
+          "Zinc",
+          "copper"
+        ]
+      ],
+      [
+        "Mexico",
+        6,
+        null,
+        [
+          "Zinc",
+          "steel"
+        ]
+      ],
+      [
+        "Canada",
+        5,
+        null,
+        [
+          "Zinc",
+          "nickel"
+        ]
+      ],
+      [
+        "Indonesia",
+        5,
+        null,
+        [
+          "Tin",
+          "zinc"
+        ]
+      ],
+      [
+        "India",
+        4,
+        null,
+        [
+          "Manganese",
+          "iron ore"
+        ]
+      ],
+      [
+        "United States",
+        4,
+        null,
+        [
+          "Zinc",
+          "chemical feedstocks"
+        ]
+      ],
+      [
+        "Japan",
+        3,
+        null,
+        [
+          "Electrolyte chemicals"
+        ]
+      ],
+      [
+        "Other",
+        6,
+        null,
+        [
+          "Graphite, paper fiber and polymers"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        "China",
+        35,
+        null,
+        [
+          "Cathode mix",
+          "steel cans",
+          "seals"
+        ]
+      ],
+      [
+        "Indonesia",
+        14,
+        null,
+        [
+          "Cell cans",
+          "zinc mix"
+        ]
+      ],
+      [
+        "Poland",
+        10,
+        null,
+        [
+          "Cathode and anode mixes"
+        ]
+      ],
+      [
+        "Germany",
+        9,
+        null,
+        [
+          "Seals",
+          "electrolyte chemicals"
+        ]
+      ],
+      [
+        "Belgium",
+        8,
+        null,
+        [
+          "Zinc powder",
+          "electrolytes"
+        ]
+      ],
+      [
+        "Japan",
+        6,
+        null,
+        [
+          "Separators",
+          "electrolytes"
+        ]
+      ],
+      [
+        "United States",
+        5,
+        null,
+        [
+          "Cathode mix",
+          "seals"
+        ]
+      ],
+      [
+        "Malaysia",
+        4,
+        null,
+        [
+          "Steel cans",
+          "labels"
+        ]
+      ],
+      [
+        "South Korea",
+        3,
+        null,
+        [
+          "Zinc powder",
+          "separators"
+        ]
+      ],
+      [
+        "Singapore",
+        2,
+        null,
+        [
+          "Specialty chemicals"
+        ]
+      ],
+      [
+        "Other",
+        4,
+        null,
+        [
+          "Labels and minor contacts"
+        ]
+      ]
+    ],
+    "assembly": [
+      [
+        "China",
+        40
+      ],
+      [
+        "Indonesia",
+        15
+      ],
+      [
+        "Poland",
+        10
+      ],
+      [
+        "Germany",
+        9
+      ],
+      [
+        "Belgium",
+        8
+      ],
+      [
+        "United States",
+        5
+      ],
+      [
+        "Japan",
+        3
+      ],
+      [
+        "Malaysia",
+        3
+      ],
+      [
+        "Singapore",
+        3
+      ],
+      [
+        "Other",
+        4
+      ]
+    ],
+    "logistics": [
+      [
+        "Netherlands",
+        15
+      ],
+      [
+        "Germany",
+        12
+      ],
+      [
+        "Belgium",
+        10
+      ],
+      [
+        "Singapore",
+        10
+      ],
+      [
+        "Hong Kong",
+        8
+      ],
+      [
+        "United Arab Emirates",
+        8
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "China",
+        7
+      ],
+      [
+        "Malaysia",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Poland",
+        4
+      ],
+      [
+        "Panama",
+        3
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "buyers": [
+      [
+        "United States",
+        18
+      ],
+      [
+        "China",
+        12
+      ],
+      [
+        "Germany",
+        8
+      ],
+      [
+        "United Kingdom",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Australia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "Netherlands",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Saudi Arabia",
+        2
+      ],
+      [
+        "United Arab Emirates",
+        2
+      ],
+      [
+        "South Africa",
+        1
+      ],
+      [
+        "Sweden",
+        1
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "waste": [
+      [
+        "China",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "India",
+        10
+      ],
+      [
+        "Germany",
+        7
+      ],
+      [
+        "United Kingdom",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Turkey",
+        2
+      ],
+      [
+        "Australia",
+        2
+      ],
+      [
+        "South Africa",
+        2
+      ],
+      [
+        "Chile",
+        1
+      ],
+      [
+        "United Arab Emirates",
+        1
+      ],
+      [
+        "Other",
+        4
+      ]
+    ]
+  },
+  "feedback": [
+    "It is a small powered product that stores energy chemically and is replaced rather than charged.",
+    "Most of its mass is a dark manganese compound and zinc sealed inside a steel cylinder.",
+    "An alkaline electrolyte lets electrons flow between one raised terminal and one flat terminal.",
+    "Its familiar cylindrical size is marked AA and it supplies about 1.5 volts."
+  ],
+  "mapRoles": {
+    "710": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "156": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "036": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "266": [
+      "source"
+    ],
+    "076": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "604": [
+      "source"
+    ],
+    "484": [
+      "source",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "124": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "360": [
+      "source",
+      "component",
+      "assembly",
+      "waste"
+    ],
+    "356": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "840": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "392": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "616": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "276": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "056": [
+      "component",
+      "assembly",
+      "logistics"
+    ],
+    "458": [
+      "component",
+      "assembly",
+      "logistics"
+    ],
+    "410": [
+      "component",
+      "buyer",
+      "waste"
+    ],
+    "702": [
+      "component",
+      "assembly",
+      "logistics"
+    ],
+    "528": [
+      "logistics",
+      "buyer"
+    ],
+    "344": [
+      "logistics"
+    ],
+    "784": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "591": [
+      "logistics"
+    ],
+    "826": [
+      "buyer",
+      "waste"
+    ],
+    "250": [
+      "buyer",
+      "waste"
+    ],
+    "380": [
+      "buyer",
+      "waste"
+    ],
+    "724": [
+      "buyer",
+      "waste"
+    ],
+    "682": [
+      "buyer"
+    ],
+    "752": [
+      "buyer"
+    ],
+    "643": [
+      "waste"
+    ],
+    "792": [
+      "waste"
+    ],
+    "152": [
+      "waste"
+    ]
+  },
+  "mapLabels": [
+    [
+      "South Africa",
+      548,
+      337,
+      "source"
+    ],
+    [
+      "China",
+      789,
+      153,
+      "assembly"
+    ],
+    [
+      "Indonesia",
+      823,
+      278,
+      "assembly"
+    ],
+    [
+      "Poland",
+      543,
+      101,
+      "assembly"
+    ],
+    [
+      "Germany",
+      528,
+      107,
+      "component"
+    ],
+    [
+      "United States",
+      222,
+      144,
+      "buyer"
+    ]
+  ]
+},
+{
+  "id": "toilet-paper-roll",
+  "name": "Toilet-paper roll",
+  "aliases": [
+    "toilet paper",
+    "toilet roll",
+    "toilet paper roll",
+    "bath tissue",
+    "bathroom tissue",
+    "bathroom paper",
+    "loo roll",
+    "lavatory paper",
+    "toilet tissue",
+    "tissue roll",
+    "paper roll",
+    "roll of toilet paper",
+    "roll of tissue",
+    "bathroom roll",
+    "wc paper",
+    "hygiene tissue"
+  ],
+  "category": "Household paper",
+  "descriptor": "Disposable sanitary paper roll",
+  "portable": true,
+  "powered": false,
+  "setting": "bathroom use",
+  "finishedPrice": {
+    "range": "$0.40–$3 per roll",
+    "basis": "Indicative per-roll retail range; recycled content, ply count, sheet count and premium softness change the price.",
+    "tiers": [
+      [
+        "Value",
+        "$0.40–$0.80"
+      ],
+      [
+        "Everyday",
+        "$0.80–$1.40"
+      ],
+      [
+        "Premium",
+        "$1.40–$2.20"
+      ],
+      [
+        "Specialty",
+        "$2.20–$3"
+      ]
+    ]
+  },
+  "guessMaterials": [
+    "Tissue fiber",
+    "Paperboard tube",
+    "Starch adhesive",
+    "Wet-strength additives"
+  ],
+  "materials": [
+    [
+      "Tissue-grade cellulose fiber",
+      105,
+      0.95
+    ],
+    [
+      "Recycled paperboard tube",
+      8,
+      0.45
+    ],
+    [
+      "Starch adhesive",
+      1,
+      0.7
+    ],
+    [
+      "Mineral and wet-strength additives",
+      1,
+      2.5
+    ]
+  ],
+  "stages": {
+    "sources": [
+      [
+        "Brazil",
+        18,
+        null,
+        [
+          "Eucalyptus pulp"
+        ]
+      ],
+      [
+        "Canada",
+        15,
+        null,
+        [
+          "Softwood pulp",
+          "recovered paper"
+        ]
+      ],
+      [
+        "United States",
+        13,
+        null,
+        [
+          "Wood pulp",
+          "recovered paper"
+        ]
+      ],
+      [
+        "Sweden",
+        10,
+        null,
+        [
+          "Softwood pulp"
+        ]
+      ],
+      [
+        "Finland",
+        8,
+        null,
+        [
+          "Softwood and birch pulp"
+        ]
+      ],
+      [
+        "Indonesia",
+        7,
+        null,
+        [
+          "Acacia pulp"
+        ]
+      ],
+      [
+        "China",
+        6,
+        null,
+        [
+          "Recovered paper",
+          "bamboo pulp"
+        ]
+      ],
+      [
+        "Chile",
+        5,
+        null,
+        [
+          "Radiata pine and eucalyptus pulp"
+        ]
+      ],
+      [
+        "Portugal",
+        4,
+        null,
+        [
+          "Eucalyptus pulp"
+        ]
+      ],
+      [
+        "Russia",
+        4,
+        null,
+        [
+          "Softwood pulp"
+        ]
+      ],
+      [
+        "Germany",
+        3,
+        null,
+        [
+          "Recovered paper",
+          "starch"
+        ]
+      ],
+      [
+        "Other",
+        7,
+        null,
+        [
+          "Fillers, additives and recovered paper"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        "Brazil",
+        18,
+        null,
+        [
+          "Bleached pulp"
+        ]
+      ],
+      [
+        "Canada",
+        14,
+        null,
+        [
+          "Pulp rolls",
+          "paperboard cores"
+        ]
+      ],
+      [
+        "United States",
+        12,
+        null,
+        [
+          "Tissue parent reels",
+          "cores"
+        ]
+      ],
+      [
+        "Sweden",
+        10,
+        null,
+        [
+          "Bleached pulp",
+          "parent reels"
+        ]
+      ],
+      [
+        "Finland",
+        8,
+        null,
+        [
+          "Bleached pulp"
+        ]
+      ],
+      [
+        "China",
+        8,
+        null,
+        [
+          "Tissue parent reels",
+          "cores"
+        ]
+      ],
+      [
+        "Germany",
+        7,
+        null,
+        [
+          "Tissue parent reels",
+          "additives"
+        ]
+      ],
+      [
+        "Indonesia",
+        6,
+        null,
+        [
+          "Bleached pulp"
+        ]
+      ],
+      [
+        "Italy",
+        5,
+        null,
+        [
+          "Embossed tissue reels"
+        ]
+      ],
+      [
+        "Poland",
+        4,
+        null,
+        [
+          "Cores",
+          "converted rolls"
+        ]
+      ],
+      [
+        "Other",
+        8,
+        null,
+        [
+          "Adhesives and wrapping materials"
+        ]
+      ]
+    ],
+    "assembly": [
+      [
+        "Germany",
+        12
+      ],
+      [
+        "China",
+        10
+      ],
+      [
+        "Italy",
+        8
+      ],
+      [
+        "Poland",
+        8
+      ],
+      [
+        "Canada",
+        7
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "Sweden",
+        6
+      ],
+      [
+        "Indonesia",
+        5
+      ],
+      [
+        "Turkey",
+        5
+      ],
+      [
+        "Spain",
+        4
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Portugal",
+        3
+      ],
+      [
+        "Netherlands",
+        3
+      ],
+      [
+        "Other",
+        10
+      ]
+    ],
+    "logistics": [
+      [
+        "Netherlands",
+        15
+      ],
+      [
+        "Germany",
+        12
+      ],
+      [
+        "Belgium",
+        10
+      ],
+      [
+        "Singapore",
+        10
+      ],
+      [
+        "Hong Kong",
+        8
+      ],
+      [
+        "United Arab Emirates",
+        8
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "China",
+        7
+      ],
+      [
+        "Malaysia",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Poland",
+        4
+      ],
+      [
+        "Panama",
+        3
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "buyers": [
+      [
+        "United States",
+        18
+      ],
+      [
+        "China",
+        12
+      ],
+      [
+        "Germany",
+        8
+      ],
+      [
+        "United Kingdom",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Australia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "Netherlands",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Saudi Arabia",
+        2
+      ],
+      [
+        "United Arab Emirates",
+        2
+      ],
+      [
+        "South Africa",
+        1
+      ],
+      [
+        "Sweden",
+        1
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "waste": [
+      [
+        "China",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "India",
+        10
+      ],
+      [
+        "Germany",
+        7
+      ],
+      [
+        "United Kingdom",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Turkey",
+        2
+      ],
+      [
+        "Australia",
+        2
+      ],
+      [
+        "South Africa",
+        2
+      ],
+      [
+        "Chile",
+        1
+      ],
+      [
+        "United Arab Emirates",
+        1
+      ],
+      [
+        "Other",
+        4
+      ]
+    ]
+  },
+  "feedback": [
+    "It is a lightweight disposable household product made almost entirely from plant fiber.",
+    "Its thin embossed sheets are wound around a small recycled-paperboard core.",
+    "The material is designed to soften and break apart quickly when wet.",
+    "It is kept beside a toilet and torn off along perforated lines."
+  ],
+  "mapRoles": {
+    "076": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "124": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "840": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "752": [
+      "source",
+      "component",
+      "assembly",
+      "buyer"
+    ],
+    "246": [
+      "source",
+      "component"
+    ],
+    "360": [
+      "source",
+      "component",
+      "assembly",
+      "waste"
+    ],
+    "156": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "152": [
+      "source",
+      "waste"
+    ],
+    "620": [
+      "source",
+      "assembly"
+    ],
+    "643": [
+      "source",
+      "waste"
+    ],
+    "276": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "380": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "616": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "792": [
+      "assembly",
+      "waste"
+    ],
+    "724": [
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "250": [
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "484": [
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "528": [
+      "assembly",
+      "logistics",
+      "buyer"
+    ],
+    "056": [
+      "logistics"
+    ],
+    "702": [
+      "logistics"
+    ],
+    "344": [
+      "logistics"
+    ],
+    "784": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "458": [
+      "logistics"
+    ],
+    "591": [
+      "logistics"
+    ],
+    "826": [
+      "buyer",
+      "waste"
+    ],
+    "392": [
+      "buyer",
+      "waste"
+    ],
+    "356": [
+      "buyer",
+      "waste"
+    ],
+    "410": [
+      "buyer",
+      "waste"
+    ],
+    "036": [
+      "buyer",
+      "waste"
+    ],
+    "682": [
+      "buyer"
+    ],
+    "710": [
+      "buyer",
+      "waste"
+    ]
+  },
+  "mapLabels": [
+    [
+      "Brazil",
+      356,
+      278,
+      "source"
+    ],
+    [
+      "Canada",
+      250,
+      91,
+      "source"
+    ],
+    [
+      "Sweden",
+      536,
+      73,
+      "component"
+    ],
+    [
+      "Germany",
+      528,
+      107,
+      "assembly"
+    ],
+    [
+      "Italy",
+      535,
+      139,
+      "assembly"
+    ],
+    [
+      "United States",
+      222,
+      144,
+      "buyer"
+    ]
+  ]
+},
+{
+  "id": "wooden-pencil",
+  "name": "Wooden pencil",
+  "aliases": [
+    "pencil",
+    "wooden pencil",
+    "graphite pencil",
+    "lead pencil",
+    "writing pencil",
+    "school pencil",
+    "drawing pencil",
+    "sketching pencil",
+    "hb pencil",
+    "number 2 pencil",
+    "no 2 pencil",
+    "#2 pencil",
+    "hexagonal pencil",
+    "yellow pencil",
+    "eraser pencil",
+    "cedar pencil",
+    "sharpenable pencil",
+    "standard pencil"
+  ],
+  "category": "Writing instrument",
+  "descriptor": "Sharpenable wooden writing tool",
+  "portable": true,
+  "powered": false,
+  "setting": "school, office and drawing",
+  "finishedPrice": {
+    "range": "$0.20–$5 per unit",
+    "basis": "Indicative retail range for one wood-cased graphite pencil; multipacks reduce the price and artist grades raise it.",
+    "tiers": [
+      [
+        "Bulk",
+        "$0.20–$0.50"
+      ],
+      [
+        "Everyday",
+        "$0.50–$1"
+      ],
+      [
+        "Premium",
+        "$1–$2.50"
+      ],
+      [
+        "Artist",
+        "$2.50–$5"
+      ]
+    ]
+  },
+  "guessMaterials": [
+    "Wood casing",
+    "Graphite-clay core",
+    "Lacquer",
+    "Aluminum ferrule",
+    "Rubber eraser"
+  ],
+  "materials": [
+    [
+      "Cedar or basswood casing",
+      3.2,
+      1.4
+    ],
+    [
+      "Graphite and clay core",
+      1.1,
+      1.8
+    ],
+    [
+      "Lacquer and pigment",
+      0.7,
+      5.0
+    ],
+    [
+      "Aluminum ferrule",
+      0.55,
+      2.6
+    ],
+    [
+      "Synthetic-rubber eraser",
+      0.4,
+      2.5
+    ],
+    [
+      "Adhesive",
+      0.05,
+      3.5
+    ]
+  ],
+  "stages": {
+    "sources": [
+      [
+        "United States",
+        15,
+        null,
+        [
+          "Incense cedar",
+          "graphite"
+        ]
+      ],
+      [
+        "Brazil",
+        14,
+        null,
+        [
+          "Plantation wood",
+          "clay"
+        ]
+      ],
+      [
+        "China",
+        12,
+        null,
+        [
+          "Basswood",
+          "graphite",
+          "aluminum"
+        ]
+      ],
+      [
+        "Indonesia",
+        10,
+        null,
+        [
+          "Plantation wood",
+          "rubber"
+        ]
+      ],
+      [
+        "Russia",
+        8,
+        null,
+        [
+          "Cedar and graphite"
+        ]
+      ],
+      [
+        "Canada",
+        8,
+        null,
+        [
+          "Softwood"
+        ]
+      ],
+      [
+        "Germany",
+        6,
+        null,
+        [
+          "Pigments and lacquer chemicals"
+        ]
+      ],
+      [
+        "India",
+        5,
+        null,
+        [
+          "Graphite and clay"
+        ]
+      ],
+      [
+        "Mexico",
+        5,
+        null,
+        [
+          "Cedar and pigments"
+        ]
+      ],
+      [
+        "South Africa",
+        4,
+        null,
+        [
+          "Graphite and clay"
+        ]
+      ],
+      [
+        "Japan",
+        3,
+        null,
+        [
+          "Graphite and lacquer"
+        ]
+      ],
+      [
+        "Austria",
+        3,
+        null,
+        [
+          "Wood slats"
+        ]
+      ],
+      [
+        "Other",
+        7,
+        null,
+        [
+          "Rubber, adhesives and metals"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        "China",
+        32,
+        null,
+        [
+          "Wood slats",
+          "cores",
+          "ferrules"
+        ]
+      ],
+      [
+        "Germany",
+        12,
+        null,
+        [
+          "Graphite cores",
+          "lacquer"
+        ]
+      ],
+      [
+        "Japan",
+        10,
+        null,
+        [
+          "Fine graphite cores",
+          "erasers"
+        ]
+      ],
+      [
+        "Brazil",
+        8,
+        null,
+        [
+          "Wood slats",
+          "cores"
+        ]
+      ],
+      [
+        "Indonesia",
+        7,
+        null,
+        [
+          "Wood slats",
+          "erasers"
+        ]
+      ],
+      [
+        "Mexico",
+        6,
+        null,
+        [
+          "Cedar slats",
+          "ferrules"
+        ]
+      ],
+      [
+        "India",
+        5,
+        null,
+        [
+          "Graphite cores",
+          "erasers"
+        ]
+      ],
+      [
+        "Czechia",
+        5,
+        null,
+        [
+          "Wood slats",
+          "cores"
+        ]
+      ],
+      [
+        "United States",
+        4,
+        null,
+        [
+          "Cedar slats",
+          "erasers"
+        ]
+      ],
+      [
+        "France",
+        3,
+        null,
+        [
+          "Artist cores",
+          "lacquer"
+        ]
+      ],
+      [
+        "Other",
+        8,
+        null,
+        [
+          "Adhesives and packaging"
+        ]
+      ]
+    ],
+    "assembly": [
+      [
+        "China",
+        42
+      ],
+      [
+        "Germany",
+        10
+      ],
+      [
+        "Brazil",
+        7
+      ],
+      [
+        "Indonesia",
+        7
+      ],
+      [
+        "Czechia",
+        6
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Vietnam",
+        4
+      ],
+      [
+        "France",
+        3
+      ],
+      [
+        "Japan",
+        2
+      ],
+      [
+        "United States",
+        2
+      ],
+      [
+        "Other",
+        8
+      ]
+    ],
+    "logistics": [
+      [
+        "Netherlands",
+        15
+      ],
+      [
+        "Germany",
+        12
+      ],
+      [
+        "Belgium",
+        10
+      ],
+      [
+        "Singapore",
+        10
+      ],
+      [
+        "Hong Kong",
+        8
+      ],
+      [
+        "United Arab Emirates",
+        8
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "China",
+        7
+      ],
+      [
+        "Malaysia",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Poland",
+        4
+      ],
+      [
+        "Panama",
+        3
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "buyers": [
+      [
+        "United States",
+        18
+      ],
+      [
+        "China",
+        12
+      ],
+      [
+        "Germany",
+        8
+      ],
+      [
+        "United Kingdom",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Australia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "Netherlands",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Saudi Arabia",
+        2
+      ],
+      [
+        "United Arab Emirates",
+        2
+      ],
+      [
+        "South Africa",
+        1
+      ],
+      [
+        "Sweden",
+        1
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "waste": [
+      [
+        "China",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "India",
+        10
+      ],
+      [
+        "Germany",
+        7
+      ],
+      [
+        "United Kingdom",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Turkey",
+        2
+      ],
+      [
+        "Australia",
+        2
+      ],
+      [
+        "South Africa",
+        2
+      ],
+      [
+        "Chile",
+        1
+      ],
+      [
+        "United Arab Emirates",
+        1
+      ],
+      [
+        "Other",
+        4
+      ]
+    ]
+  },
+  "feedback": [
+    "It is a light unpowered hand tool used on paper and gradually consumed during use.",
+    "A dark graphite-and-clay core is glued between two shaped pieces of wood.",
+    "One end may carry a small rubber piece held by a crimped aluminum sleeve.",
+    "It makes erasable marks and must be sharpened as its wooden body gets shorter."
+  ],
+  "mapRoles": {
+    "840": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "076": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "156": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "360": [
+      "source",
+      "component",
+      "assembly",
+      "waste"
+    ],
+    "643": [
+      "source",
+      "waste"
+    ],
+    "124": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "276": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "356": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "484": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "710": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "392": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "040": [
+      "source"
+    ],
+    "203": [
+      "component",
+      "assembly"
+    ],
+    "250": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "704": [
+      "assembly"
+    ],
+    "528": [
+      "logistics",
+      "buyer"
+    ],
+    "056": [
+      "logistics"
+    ],
+    "702": [
+      "logistics"
+    ],
+    "344": [
+      "logistics"
+    ],
+    "784": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "458": [
+      "logistics"
+    ],
+    "616": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "591": [
+      "logistics"
+    ],
+    "826": [
+      "buyer",
+      "waste"
+    ],
+    "380": [
+      "buyer",
+      "waste"
+    ],
+    "410": [
+      "buyer",
+      "waste"
+    ],
+    "724": [
+      "buyer",
+      "waste"
+    ],
+    "036": [
+      "buyer",
+      "waste"
+    ],
+    "682": [
+      "buyer"
+    ],
+    "752": [
+      "buyer"
+    ],
+    "792": [
+      "waste"
+    ],
+    "152": [
+      "waste"
+    ]
+  },
+  "mapLabels": [
+    [
+      "United States",
+      222,
+      144,
+      "source"
+    ],
+    [
+      "Brazil",
+      356,
+      278,
+      "source"
+    ],
+    [
+      "China",
+      789,
+      153,
+      "assembly"
+    ],
+    [
+      "Germany",
+      528,
+      107,
+      "component"
+    ],
+    [
+      "Japan",
+      883,
+      147,
+      "component"
+    ],
+    [
+      "Netherlands",
+      514,
+      106,
+      "logistics"
+    ]
+  ]
+},
+{
+  "id": "over-ear-headphones",
+  "name": "Over-ear headphones",
+  "aliases": [
+    "headphones",
+    "head phones",
+    "over ear headphones",
+    "over-ear headphones",
+    "wireless headphones",
+    "wired headphones",
+    "stereo headphones",
+    "audio headphones",
+    "headset",
+    "audio headset",
+    "bluetooth headphones",
+    "noise cancelling headphones",
+    "noise-canceling headphones",
+    "noise canceling headphones",
+    "ear cup headphones",
+    "earcup headphones",
+    "music headphones",
+    "listening headphones",
+    "gaming headset"
+  ],
+  "category": "Personal audio",
+  "descriptor": "Wearable audio device",
+  "portable": true,
+  "powered": true,
+  "setting": "personal listening and communication",
+  "finishedPrice": {
+    "range": "$20–$600 per unit",
+    "basis": "Indicative retail range for one over-ear consumer headset; wireless electronics, active noise cancellation and premium drivers raise the price.",
+    "tiers": [
+      [
+        "Value",
+        "$20–$60"
+      ],
+      [
+        "Everyday",
+        "$60–$150"
+      ],
+      [
+        "Premium",
+        "$150–$350"
+      ],
+      [
+        "Audiophile",
+        "$350–$600"
+      ]
+    ]
+  },
+  "guessMaterials": [
+    "ABS and polycarbonate",
+    "Polyurethane foam",
+    "Steel headband",
+    "Copper wire",
+    "Driver electronics"
+  ],
+  "materials": [
+    [
+      "ABS and polycarbonate housings",
+      95,
+      2.2
+    ],
+    [
+      "Polyurethane ear-cushion foam",
+      50,
+      3.0
+    ],
+    [
+      "Steel headband and fasteners",
+      30,
+      1.0
+    ],
+    [
+      "Copper coils and wiring",
+      20,
+      9.0
+    ],
+    [
+      "Circuit boards and electronics",
+      18,
+      24.0
+    ],
+    [
+      "Synthetic leather and textiles",
+      15,
+      4.0
+    ],
+    [
+      "Aluminum parts",
+      10,
+      2.6
+    ],
+    [
+      "Permanent magnets",
+      6,
+      18.0
+    ],
+    [
+      "Cable and insulation",
+      5,
+      3.0
+    ],
+    [
+      "Adhesives and coatings",
+      1,
+      6.0
+    ]
+  ],
+  "stages": {
+    "sources": [
+      [
+        "China",
+        16,
+        null,
+        [
+          "Rare earths",
+          "aluminum",
+          "polymer feedstocks"
+        ]
+      ],
+      [
+        "Chile",
+        10,
+        null,
+        [
+          "Copper"
+        ]
+      ],
+      [
+        "Australia",
+        10,
+        null,
+        [
+          "Bauxite",
+          "iron ore",
+          "rare earths"
+        ]
+      ],
+      [
+        "DR Congo",
+        9,
+        null,
+        [
+          "Copper",
+          "cobalt"
+        ]
+      ],
+      [
+        "Indonesia",
+        8,
+        null,
+        [
+          "Nickel",
+          "tin"
+        ]
+      ],
+      [
+        "Peru",
+        7,
+        null,
+        [
+          "Copper",
+          "zinc"
+        ]
+      ],
+      [
+        "South Africa",
+        6,
+        null,
+        [
+          "Manganese",
+          "chromium"
+        ]
+      ],
+      [
+        "Saudi Arabia",
+        6,
+        null,
+        [
+          "Polymer feedstocks"
+        ]
+      ],
+      [
+        "United States",
+        5,
+        null,
+        [
+          "Copper",
+          "polymer feedstocks"
+        ]
+      ],
+      [
+        "Brazil",
+        5,
+        null,
+        [
+          "Iron ore",
+          "bauxite"
+        ]
+      ],
+      [
+        "Canada",
+        4,
+        null,
+        [
+          "Nickel",
+          "aluminum"
+        ]
+      ],
+      [
+        "Russia",
+        4,
+        null,
+        [
+          "Nickel",
+          "aluminum"
+        ]
+      ],
+      [
+        "India",
+        3,
+        null,
+        [
+          "Iron ore",
+          "electronics minerals"
+        ]
+      ],
+      [
+        "Other",
+        7,
+        null,
+        [
+          "Silica, rubber and specialty metals"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        "China",
+        32,
+        null,
+        [
+          "Speaker drivers",
+          "housings",
+          "boards"
+        ]
+      ],
+      [
+        "Taiwan",
+        14,
+        null,
+        [
+          "Driver electronics",
+          "wireless modules"
+        ]
+      ],
+      [
+        "South Korea",
+        12,
+        null,
+        [
+          "Batteries",
+          "memory",
+          "electronics"
+        ]
+      ],
+      [
+        "Japan",
+        10,
+        null,
+        [
+          "Driver diaphragms",
+          "magnets"
+        ]
+      ],
+      [
+        "Malaysia",
+        7,
+        null,
+        [
+          "Chip packaging",
+          "boards"
+        ]
+      ],
+      [
+        "Germany",
+        5,
+        null,
+        [
+          "Acoustic components",
+          "microphones"
+        ]
+      ],
+      [
+        "Vietnam",
+        5,
+        null,
+        [
+          "Cables",
+          "molded housings"
+        ]
+      ],
+      [
+        "United States",
+        4,
+        null,
+        [
+          "Audio chips",
+          "software electronics"
+        ]
+      ],
+      [
+        "Mexico",
+        3,
+        null,
+        [
+          "Cables",
+          "boards"
+        ]
+      ],
+      [
+        "Thailand",
+        2,
+        null,
+        [
+          "Molded parts",
+          "cables"
+        ]
+      ],
+      [
+        "Other",
+        6,
+        null,
+        [
+          "Cushions, hinges and adhesives"
+        ]
+      ]
+    ],
+    "assembly": [
+      [
+        "China",
+        52
+      ],
+      [
+        "Vietnam",
+        14
+      ],
+      [
+        "Malaysia",
+        6
+      ],
+      [
+        "Mexico",
+        5
+      ],
+      [
+        "Germany",
+        4
+      ],
+      [
+        "Netherlands",
+        3
+      ],
+      [
+        "United States",
+        3
+      ],
+      [
+        "Japan",
+        3
+      ],
+      [
+        "South Korea",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "logistics": [
+      [
+        "Netherlands",
+        15
+      ],
+      [
+        "Germany",
+        12
+      ],
+      [
+        "Belgium",
+        10
+      ],
+      [
+        "Singapore",
+        10
+      ],
+      [
+        "Hong Kong",
+        8
+      ],
+      [
+        "United Arab Emirates",
+        8
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "China",
+        7
+      ],
+      [
+        "Malaysia",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Poland",
+        4
+      ],
+      [
+        "Panama",
+        3
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "buyers": [
+      [
+        "United States",
+        18
+      ],
+      [
+        "China",
+        12
+      ],
+      [
+        "Germany",
+        8
+      ],
+      [
+        "United Kingdom",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Australia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "Netherlands",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Saudi Arabia",
+        2
+      ],
+      [
+        "United Arab Emirates",
+        2
+      ],
+      [
+        "South Africa",
+        1
+      ],
+      [
+        "Sweden",
+        1
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "waste": [
+      [
+        "China",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "India",
+        10
+      ],
+      [
+        "Germany",
+        7
+      ],
+      [
+        "United Kingdom",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Turkey",
+        2
+      ],
+      [
+        "Australia",
+        2
+      ],
+      [
+        "South Africa",
+        2
+      ],
+      [
+        "Chile",
+        1
+      ],
+      [
+        "United Arab Emirates",
+        1
+      ],
+      [
+        "Other",
+        4
+      ]
+    ]
+  },
+  "feedback": [
+    "It is a portable powered product worn on the body rather than installed in a room.",
+    "Two padded housings contain magnets, copper coils and thin vibrating diaphragms.",
+    "A curved adjustable band joins the housings, while electronics may receive a wireless signal.",
+    "It covers both ears to play private stereo sound and may include a microphone."
+  ],
+  "mapRoles": {
+    "156": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "152": [
+      "source",
+      "waste"
+    ],
+    "036": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "360": [
+      "source",
+      "waste"
+    ],
+    "604": [
+      "source"
+    ],
+    "710": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "682": [
+      "source",
+      "buyer"
+    ],
+    "840": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "076": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "124": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "643": [
+      "source",
+      "waste"
+    ],
+    "356": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "158": [
+      "component"
+    ],
+    "410": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "392": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "458": [
+      "component",
+      "assembly",
+      "logistics"
+    ],
+    "276": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "704": [
+      "component",
+      "assembly"
+    ],
+    "484": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "764": [
+      "component"
+    ],
+    "528": [
+      "assembly",
+      "logistics",
+      "buyer"
+    ],
+    "616": [
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "056": [
+      "logistics"
+    ],
+    "702": [
+      "logistics"
+    ],
+    "344": [
+      "logistics"
+    ],
+    "784": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "591": [
+      "logistics"
+    ],
+    "826": [
+      "buyer",
+      "waste"
+    ],
+    "250": [
+      "buyer",
+      "waste"
+    ],
+    "380": [
+      "buyer",
+      "waste"
+    ],
+    "724": [
+      "buyer",
+      "waste"
+    ],
+    "752": [
+      "buyer"
+    ],
+    "792": [
+      "waste"
+    ]
+  },
+  "mapLabels": [
+    [
+      "China",
+      789,
+      153,
+      "assembly"
+    ],
+    [
+      "Chile",
+      297,
+      340,
+      "source"
+    ],
+    [
+      "Taiwan",
+      836,
+      185,
+      "component"
+    ],
+    [
+      "South Korea",
+      827,
+      167,
+      "component"
+    ],
+    [
+      "Vietnam",
+      805,
+      205,
+      "assembly"
+    ],
+    [
+      "United States",
+      222,
+      144,
+      "buyer"
+    ]
+  ]
+},
+{
+  "id": "stainless-steel-cooking-pot",
+  "name": "Stainless-steel cooking pot",
+  "aliases": [
+    "cooking pot",
+    "pot",
+    "stainless steel pot",
+    "stainless-steel pot",
+    "stock pot",
+    "stockpot",
+    "sauce pot",
+    "saucepan",
+    "cooking saucepan",
+    "kitchen pot",
+    "metal pot",
+    "steel pot",
+    "boiling pot",
+    "lidded pot",
+    "stew pot",
+    "soup pot",
+    "induction pot",
+    "cookware pot",
+    "stainless cookware"
+  ],
+  "category": "Cookware",
+  "descriptor": "Lidded metal cooking vessel",
+  "portable": true,
+  "powered": false,
+  "setting": "kitchen cooking",
+  "finishedPrice": {
+    "range": "$25–$300 per unit",
+    "basis": "Indicative retail range for one medium stainless-steel cooking pot with lid; multi-ply construction, size and premium brands raise the price.",
+    "tiers": [
+      [
+        "Value",
+        "$25–$50"
+      ],
+      [
+        "Everyday",
+        "$50–$100"
+      ],
+      [
+        "Multi-ply",
+        "$100–$180"
+      ],
+      [
+        "Premium",
+        "$180–$300"
+      ]
+    ]
+  },
+  "guessMaterials": [
+    "Stainless steel",
+    "Aluminum heat-spreading base",
+    "Glass lid",
+    "Heat-resistant handles"
+  ],
+  "materials": [
+    [
+      "Stainless-steel body and lid rim",
+      1700,
+      2.4
+    ],
+    [
+      "Aluminum heat-spreading base",
+      350,
+      2.6
+    ],
+    [
+      "Tempered-glass lid",
+      100,
+      0.9
+    ],
+    [
+      "Phenolic resin and silicone handles",
+      40,
+      3.2
+    ],
+    [
+      "Steel rivets and fittings",
+      10,
+      1.2
+    ]
+  ],
+  "stages": {
+    "sources": [
+      [
+        "Australia",
+        18,
+        null,
+        [
+          "Iron ore",
+          "bauxite",
+          "nickel"
+        ]
+      ],
+      [
+        "Brazil",
+        13,
+        null,
+        [
+          "Iron ore",
+          "bauxite"
+        ]
+      ],
+      [
+        "South Africa",
+        11,
+        null,
+        [
+          "Chromium",
+          "manganese",
+          "iron ore"
+        ]
+      ],
+      [
+        "Indonesia",
+        10,
+        null,
+        [
+          "Nickel",
+          "bauxite"
+        ]
+      ],
+      [
+        "China",
+        9,
+        null,
+        [
+          "Steel inputs",
+          "aluminum"
+        ]
+      ],
+      [
+        "India",
+        8,
+        null,
+        [
+          "Iron ore",
+          "chromium"
+        ]
+      ],
+      [
+        "Guinea",
+        7,
+        null,
+        [
+          "Bauxite"
+        ]
+      ],
+      [
+        "Russia",
+        5,
+        null,
+        [
+          "Nickel",
+          "aluminum"
+        ]
+      ],
+      [
+        "Canada",
+        4,
+        null,
+        [
+          "Nickel",
+          "aluminum"
+        ]
+      ],
+      [
+        "Turkey",
+        4,
+        null,
+        [
+          "Chromium",
+          "iron ore"
+        ]
+      ],
+      [
+        "United States",
+        3,
+        null,
+        [
+          "Steel scrap",
+          "silica"
+        ]
+      ],
+      [
+        "Philippines",
+        3,
+        null,
+        [
+          "Nickel",
+          "chromium"
+        ]
+      ],
+      [
+        "Other",
+        5,
+        null,
+        [
+          "Silica, copper and handle chemicals"
+        ]
+      ]
+    ],
+    "components": [
+      [
+        "China",
+        28,
+        null,
+        [
+          "Steel blanks",
+          "glass lids",
+          "handles"
+        ]
+      ],
+      [
+        "Germany",
+        15,
+        null,
+        [
+          "Clad metal discs",
+          "precision lids"
+        ]
+      ],
+      [
+        "Italy",
+        12,
+        null,
+        [
+          "Cookware blanks",
+          "handles"
+        ]
+      ],
+      [
+        "India",
+        10,
+        null,
+        [
+          "Steel blanks",
+          "glass lids"
+        ]
+      ],
+      [
+        "Turkey",
+        8,
+        null,
+        [
+          "Steel sheets",
+          "handles"
+        ]
+      ],
+      [
+        "France",
+        6,
+        null,
+        [
+          "Clad bases",
+          "glass lids"
+        ]
+      ],
+      [
+        "United States",
+        5,
+        null,
+        [
+          "Clad metal discs",
+          "handles"
+        ]
+      ],
+      [
+        "Vietnam",
+        4,
+        null,
+        [
+          "Steel stampings",
+          "lids"
+        ]
+      ],
+      [
+        "Portugal",
+        3,
+        null,
+        [
+          "Cookware blanks",
+          "handles"
+        ]
+      ],
+      [
+        "Brazil",
+        3,
+        null,
+        [
+          "Steel blanks",
+          "glass lids"
+        ]
+      ],
+      [
+        "Other",
+        6,
+        null,
+        [
+          "Rivets, seals and packaging"
+        ]
+      ]
+    ],
+    "assembly": [
+      [
+        "China",
+        38
+      ],
+      [
+        "Germany",
+        10
+      ],
+      [
+        "Italy",
+        10
+      ],
+      [
+        "India",
+        8
+      ],
+      [
+        "Turkey",
+        7
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "Vietnam",
+        4
+      ],
+      [
+        "United States",
+        4
+      ],
+      [
+        "Portugal",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Brazil",
+        2
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "logistics": [
+      [
+        "Netherlands",
+        15
+      ],
+      [
+        "Germany",
+        12
+      ],
+      [
+        "Belgium",
+        10
+      ],
+      [
+        "Singapore",
+        10
+      ],
+      [
+        "Hong Kong",
+        8
+      ],
+      [
+        "United Arab Emirates",
+        8
+      ],
+      [
+        "United States",
+        7
+      ],
+      [
+        "China",
+        7
+      ],
+      [
+        "Malaysia",
+        5
+      ],
+      [
+        "Mexico",
+        4
+      ],
+      [
+        "Poland",
+        4
+      ],
+      [
+        "Panama",
+        3
+      ],
+      [
+        "Other",
+        7
+      ]
+    ],
+    "buyers": [
+      [
+        "United States",
+        18
+      ],
+      [
+        "China",
+        12
+      ],
+      [
+        "Germany",
+        8
+      ],
+      [
+        "United Kingdom",
+        6
+      ],
+      [
+        "Japan",
+        6
+      ],
+      [
+        "France",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Australia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "Netherlands",
+        2
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Saudi Arabia",
+        2
+      ],
+      [
+        "United Arab Emirates",
+        2
+      ],
+      [
+        "South Africa",
+        1
+      ],
+      [
+        "Sweden",
+        1
+      ],
+      [
+        "Other",
+        6
+      ]
+    ],
+    "waste": [
+      [
+        "China",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "India",
+        10
+      ],
+      [
+        "Germany",
+        7
+      ],
+      [
+        "United Kingdom",
+        5
+      ],
+      [
+        "Japan",
+        5
+      ],
+      [
+        "France",
+        4
+      ],
+      [
+        "Brazil",
+        4
+      ],
+      [
+        "Italy",
+        4
+      ],
+      [
+        "Canada",
+        3
+      ],
+      [
+        "Russia",
+        3
+      ],
+      [
+        "Mexico",
+        3
+      ],
+      [
+        "South Korea",
+        3
+      ],
+      [
+        "Indonesia",
+        3
+      ],
+      [
+        "Spain",
+        3
+      ],
+      [
+        "Poland",
+        2
+      ],
+      [
+        "Turkey",
+        2
+      ],
+      [
+        "Australia",
+        2
+      ],
+      [
+        "South Africa",
+        2
+      ],
+      [
+        "Chile",
+        1
+      ],
+      [
+        "United Arab Emirates",
+        1
+      ],
+      [
+        "Other",
+        4
+      ]
+    ]
+  },
+  "feedback": [
+    "It is a durable unpowered household object used on a hot work surface.",
+    "Most of its mass is corrosion-resistant steel, often bonded to an aluminum heat-spreading layer.",
+    "A deep cylindrical vessel has side handles and usually a separate glass or metal cover.",
+    "It holds water, soup or other food over a stove for boiling and simmering."
+  ],
+  "mapRoles": {
+    "036": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "076": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "710": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "360": [
+      "source",
+      "assembly",
+      "waste"
+    ],
+    "156": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "356": [
+      "source",
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "324": [
+      "source"
+    ],
+    "643": [
+      "source",
+      "waste"
+    ],
+    "124": [
+      "source",
+      "buyer",
+      "waste"
+    ],
+    "792": [
+      "source",
+      "component",
+      "assembly",
+      "waste"
+    ],
+    "840": [
+      "source",
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "608": [
+      "source"
+    ],
+    "276": [
+      "component",
+      "assembly",
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "380": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "250": [
+      "component",
+      "assembly",
+      "buyer",
+      "waste"
+    ],
+    "704": [
+      "component",
+      "assembly"
+    ],
+    "620": [
+      "component",
+      "assembly"
+    ],
+    "528": [
+      "logistics",
+      "buyer"
+    ],
+    "056": [
+      "logistics"
+    ],
+    "702": [
+      "logistics"
+    ],
+    "344": [
+      "logistics"
+    ],
+    "784": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "458": [
+      "logistics"
+    ],
+    "484": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "616": [
+      "logistics",
+      "buyer",
+      "waste"
+    ],
+    "591": [
+      "logistics"
+    ],
+    "826": [
+      "buyer",
+      "waste"
+    ],
+    "392": [
+      "buyer",
+      "waste"
+    ],
+    "410": [
+      "buyer",
+      "waste"
+    ],
+    "724": [
+      "buyer",
+      "waste"
+    ],
+    "682": [
+      "buyer"
+    ],
+    "752": [
+      "buyer"
+    ],
+    "152": [
+      "waste"
+    ]
+  },
+  "mapLabels": [
+    [
+      "Australia",
+      872,
+      319,
+      "source"
+    ],
+    [
+      "South Africa",
+      548,
+      337,
+      "source"
+    ],
+    [
+      "China",
+      789,
+      153,
+      "assembly"
+    ],
+    [
+      "Germany",
+      528,
+      107,
+      "component"
+    ],
+    [
+      "Italy",
+      535,
+      139,
+      "assembly"
+    ],
+    [
+      "United States",
+      222,
+      144,
+      "buyer"
+    ]
+  ]
+}
 ]
