@@ -1,7 +1,7 @@
 {
   "id": "supply-chain-guess",
   "name": "Supply Chain Guesser",
-  "version": "0.12.9",
+  "version": "0.12.10",
   "description": "Guess an everyday object from the global journey behind it.",
   "entry": "index.jsx",
   "icon": "icon.png",
